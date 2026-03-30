@@ -9,3 +9,10 @@
 - [x] Criação do CLAUDE.md, README.md e .gitignore
 - [x] Criação do repositório público no GitHub (lucasftas/dng-to-jpg-or-png)
 - [x] Release v0.1.0 criada
+- [x] Implementação do menu de contexto Windows com winreg
+- [x] Modo CLI com argparse (convert, install, uninstall)
+- [x] Busca recursiva em subpastas + checkbox na GUI
+- [x] Refatoração: funções standalone de conversão
+- [x] Instalação do menu de contexto e verificação no registro
+- [x] Atualização de README.md e CLAUDE.md
+- [x] Release v0.1.1 criada
